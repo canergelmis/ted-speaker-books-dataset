@@ -1,5 +1,7 @@
 # Books by TED Speakers — Verified Catalogue
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24326595.svg)](https://doi.org/10.5281/zenodo.24326595)
+
 Every book on Books Worth Reading that was written by a TED speaker, as one table: **1,278 books by 620 speakers** (snapshot of 17 November 2026).
 
 - Canonical source and living version: https://www.books-worth-reading.com/dataset
@@ -40,4 +42,6 @@ A book enters the catalogue only when it passes the site's publication gate. The
 
 The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it, also commercially, if you credit **Books Worth Reading** and link to https://www.books-worth-reading.com/dataset.
 
-Citation details are in `CITATION.cff`.
+Cite it as: Books Worth Reading (2026). *Books by TED Speakers — Verified Catalogue* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24326595
+
+Citation details are also in `CITATION.cff`.
