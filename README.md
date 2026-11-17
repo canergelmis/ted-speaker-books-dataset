@@ -34,7 +34,6 @@ A book enters the catalogue only when it passes the site's publication gate. The
 ## Known limitations
 
 - The data describes one edition per book, which is not always the first edition. So `published_date` and `publisher` can belong to a later or foreign edition.
-- A small number of rows have wrong publication dates.
 - The catalogue changes over time. This repository is a snapshot. The living version is at the canonical source above.
 
 ## Licence and citation
