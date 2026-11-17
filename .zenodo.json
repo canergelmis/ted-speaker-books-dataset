@@ -1,0 +1,12 @@
+{
+  "title": "Books by TED Speakers — Verified Catalogue",
+  "upload_type": "dataset",
+  "description": "<p>Every book on Books Worth Reading that was written by a TED speaker, as one table: 1,278 books by 620 speakers (snapshot of 17 November 2026). Fields: title, subtitle, speaker, all authors, publication date, publisher, category, subcategory, ISBN-10, ISBN-13, language, book URL, speaker URL.</p><p>Canonical source and living version: <a href=\"https://www.books-worth-reading.com/dataset\">https://www.books-worth-reading.com/dataset</a>. Methodology: <a href=\"https://www.books-worth-reading.com/study/ted-speaker-books\">https://www.books-worth-reading.com/study/ted-speaker-books</a>.</p>",
+  "creators": [{ "name": "Books Worth Reading" }],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["TED speakers", "books", "bibliography", "reading lists", "book recommendations", "dataset"],
+  "related_identifiers": [
+    { "identifier": "https://www.books-worth-reading.com/dataset", "relation": "isDerivedFrom", "scheme": "url" }
+  ]
+}

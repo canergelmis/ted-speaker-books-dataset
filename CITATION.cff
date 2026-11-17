@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Books by TED Speakers — Verified Catalogue"
+authors:
+  - name: "Books Worth Reading"
+date-released: 2026-11-17
+version: "2026-11-17"
+license: CC-BY-4.0
+url: "https://www.books-worth-reading.com/dataset"
+keywords:
+  - TED speakers
+  - books
+  - bibliography
+  - reading lists
+  - book recommendations
+  - dataset
